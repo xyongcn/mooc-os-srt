@@ -13,7 +13,7 @@ lecture-03/lecture-03-5.srt
 lecture-03/lecture-03-3.srt
 173
 00:08:44,440 --> 00:08:47,360
-在这个图里描述是适宜性的
+在这个图里描述是适宜性的 (适宜性 --> 示意性)
 
 ===
 lecture-04/lecture-04-4.srt
@@ -42,7 +42,7 @@ lecture-02/lecture-02-7.srt
 lecture-02/lecture-02-7.srt
 104
 00:04:19,120 --> 00:04:20,760
-所以make clean找Mmake file
+所以make clean找Mmake file (Mmake --> make)
 
 ===
 lecture-01/lecture-01-4.srt
@@ -67,4 +67,12 @@ lecture-02/lecture-02-2.srt
 00:04:15,840 --> 00:04:20,200
 比如说我们这里面ucore针对是32个X86机器 (32个 --> 32位)
 
+===
+lecture-18/lecture-18-2.srt
+285
+00:11:31,520 --> 00:11:33,320
+好 在这个地方呢 负 (负 --> full)
+https://piazza.com/class/i5j09fnsl7k5x0?cid=890
+
+===
 
